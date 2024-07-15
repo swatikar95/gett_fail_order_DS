@@ -16,6 +16,9 @@ The script performs the following tasks:
 The output includes:
 
 - Distribution of Order Cancellations and analysis
+![[./images/Q1.png]]
+
+
 - Hourly Distribution of Order Cancellations and analysis
 - Average Cancellation Time by Hour
 - Average Wait Time by Hour of the Day
